@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: JCON22_CategoryService
+netty:
+  default:
+    allocator:
+      max-order: 3
